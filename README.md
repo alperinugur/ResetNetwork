@@ -9,4 +9,7 @@ RPi library  (RPi.GPIO)
 # Type
 the script is as python.
 
+# Further info
+I registered this script to start-up, so it works itself.
+
 
